@@ -1,2 +1,0 @@
-feature 2 implementation
-feature 2 modified
