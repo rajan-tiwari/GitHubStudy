@@ -1,1 +1,2 @@
 Added a new file.
+Added one line to master.
