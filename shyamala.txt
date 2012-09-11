@@ -11,3 +11,7 @@ Added new feature on 10 September.
 Added Another New Feature ...
 
 Added line to SM-NewFeature.
+
+Added a new line from SM.
+
+/////////////////////
