@@ -2,9 +2,16 @@
 Testing..
 
 Added a new line.
+<<<<<<< HEAD
 
 
 Added new line for test purpose on 6 september.
 
 Added One more line.
 
+=======
+
+Added One more line.
+
+Added new line for test purpose on 6 september.
+>>>>>>> b6cb49a19d19e2ace66aaac7c1b3e23f4dfaa112
