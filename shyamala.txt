@@ -1,5 +1,5 @@
 Added initial line.
-<<<<<<< HEAD
+
 
 
 This line is added to test Stashing feature. 
