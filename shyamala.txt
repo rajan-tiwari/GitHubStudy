@@ -1,27 +1,8 @@
-Added initial line.
-
-
-
-This file is not up-to date.Test line added.
-
-
-
-This line is added to test Stashing feature. 
-
-Added one more line to the text file.
-
-Added new feature on 10 September.
-
-
-Added Another New Feature ...
-
-Added line to SM-NewFeature.
-
-Added a new line from SM.
-
 
 This file is not up-to date.Test line added.
 This file is not up-to date.Test line added.
 
+
+Deleted All Lines. 17th September
 
 
