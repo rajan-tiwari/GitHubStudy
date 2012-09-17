@@ -24,3 +24,4 @@ This file is not up-to date.Test line added.
 This file is not up-to date.Test line added.
 
 Stashed line.
+Deleted all lines from SM Feature.
