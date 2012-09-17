@@ -1,12 +1,2 @@
-Added initial line.
-
-
-This line is added to test Stashing feature. 
-
-Added one more line to the text file.
-
-Added new feature on 10 September.
-
-
-Added Another New Feature ...
+Deleted all the features .(17/9/2012)
 
