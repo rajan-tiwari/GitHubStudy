@@ -1,4 +1,4 @@
-rajan's feature.
+rajan's feature is modified.
 
-rajan's second feature.
+rajan's second feature is deleted.
 rajan's third feature.
